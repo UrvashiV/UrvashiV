@@ -47,7 +47,7 @@ Continuously practicing DSA to enhance problem-solving and write efficient code.
 
 ---
 
-### 💻 Frontend (Basic)
+### 💻 Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
