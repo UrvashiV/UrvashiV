@@ -99,7 +99,7 @@ Continuously practicing DSA to enhance problem-solving and write efficient code.
 
 ## 🧩 Problem Solving
 
-* Strong knowledge of **Data Structures and Algorithms**
+* Strong knowledge of Data Structures and Algorithms
 * Practicing DSA daily to improve:
 
   * Problem-solving approach
@@ -126,7 +126,6 @@ Continuously practicing DSA to enhance problem-solving and write efficient code.
 
 <br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=UrvashiV&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
 
 </div>
@@ -141,6 +140,8 @@ Continuously practicing DSA to enhance problem-solving and write efficient code.
 ---
 
 ## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/urvashi001)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:urvashiv768@gmail.com)
 
